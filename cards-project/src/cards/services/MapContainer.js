@@ -64,6 +64,7 @@ class MapContainer extends Component {
           <Map containerStyle={{width: 780, height: 400, mb: 1, mt:1}}
             google={this.props.google}
             zoom={14}
+            center={mapCenter}
           >
           <Marker
           position={mapCenter}
