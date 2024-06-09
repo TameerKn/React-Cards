@@ -71,24 +71,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Welcome to the Business Cards Project! This application is designed to create, manage, and like business cards efficiently and in a user-friendly manner.
-Built with React and utilizing various modern web technologies, this project offers a seamless experience for both personal and business use.
-
-Features
-Card Creation and Management
-Users can create their own business cards with customizable fields such as title, description, contact information, and images.
-Options for editing and deleting created cards.
-Favorite Cards
-Users can mark cards as favorites for easy access.
-User Authentication
-Secure login and signup functionality for user management.
-Responsive Design
-Ensures a great user experience across various devices and screen sizes.
-Admin Panel
-Administrators have access to manage users and cards, providing robust control over the application.
-Technologies Used
-React.js
-React Router for navigation
-Material-UI for UI components
-Styled Components for styling
-Joi for validation
+Welcome to the Business Cards Project! This application is designed to create, manage, and like business cards efficiently and in a user-friendly manner. Built with React and utilizing various modern web technologies, this project offers a seamless experience for both personal and business use.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Features:
+Users can create their own business cards with customizable fields such as title, description, contact information, and images, with options for editing and deleting created cards. They can also mark cards as favorites for easy access. Secure login and signup functionality ensure user management is handled safely. The responsive design guarantees a great user experience across various devices and screen sizes. Additionally, administrators have access to manage users and cards, providing robust control over the application.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Technologies Used:
+The project utilizes React.js, React Router for navigation, Material-UI for UI components, Styled Components for styling, and Joi for validation.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+API Used:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cards: https://documenter.getpostman.com/view/25008645/2s9YXcd5BE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Users: https://documenter.getpostman.com/view/25008645/2s9YXcd5BL
