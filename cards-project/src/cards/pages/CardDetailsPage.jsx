@@ -50,7 +50,7 @@ export default function CardDetailsPage() {
         <Divider sx={{ my: 2, bgcolor: "#6381d4"}} />
         <Typography variant= "h5" fontWeight="bold" textAlign="left" >Find on Google Maps:</Typography>
         <Box sx={{height: 401, width: 781, mb: 2, mt: 2, boxShadow: "0px 2px 13px rgb(99, 129, 212)"}}>
-        <Map center = {[51.505, -0.09]}
+        <Map
          address={card.address}
          />
         </Box>
