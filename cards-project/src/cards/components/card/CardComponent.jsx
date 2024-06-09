@@ -29,6 +29,7 @@ export default function CardComponent({
         />
       </CardActionArea>
       <CardActionBar
+        likes = {card.likes}
         handleCardLike={handleCardLike}
         handleCardDelete={handleCardDelete}
         cardId={card._id}
