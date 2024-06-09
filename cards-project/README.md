@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Welcome to the Business Cards Project! This application is designed to create, manage, and like business cards efficiently and in a user-friendly manner.
+Built with React and utilizing various modern web technologies, this project offers a seamless experience for both personal and business use.
+
+Features
+Card Creation and Management
+Users can create their own business cards with customizable fields such as title, description, contact information, and images.
+Options for editing and deleting created cards.
+Favorite Cards
+Users can mark cards as favorites for easy access.
+User Authentication
+Secure login and signup functionality for user management.
+Responsive Design
+Ensures a great user experience across various devices and screen sizes.
+Admin Panel
+Administrators have access to manage users and cards, providing robust control over the application.
+Technologies Used
+React.js
+React Router for navigation
+Material-UI for UI components
+Styled Components for styling
+Joi for validation
