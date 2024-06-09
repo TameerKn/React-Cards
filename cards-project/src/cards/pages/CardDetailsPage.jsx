@@ -39,7 +39,7 @@ export default function CardDetailsPage() {
 
       <Paper sx={{p: 3, mt: 3, ml: 20, mr: 20, textAlign: "center", boxShadow: "0px 4px 0px rgb(99, 129, 212)"}}>      
         <Typography variant= "h5" fontWeight="bold" textAlign="left" >Address Details:</Typography>
-        <Typography textAlign="left" sx={{ml: 0.5, fontSize: 20}}>{card.phone}</Typography>
+        <Typography textAlign="left" sx={{ml: 0.5, fontSize: 20}}>Phone Number: {card.phone}</Typography>
         <Typography textAlign="left" sx={{ml: 0.5, fontSize: 20}}>Email Address: {card.email}</Typography>
         <Typography textAlign="left" sx={{ml: 0.5, fontSize: 20}}>Country: {card.address?.country}</Typography>
         <Typography textAlign="left" sx={{ml: 0.5, fontSize: 20}}>State: {card.address?.state}</Typography>
